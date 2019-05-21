@@ -3,7 +3,7 @@ author: Matt Grabara
 version: 1.0.2
 year: 2012
 
-This program implements, verifies correctness and proves invalidity of Goldbach Conjecture proof proposed by James Constant. For each provided number, algorithm determines factors and verifies whether they are prime numbers and they are indeed factors of the provided integer.
+This program supported the presentation of my classmate’s nationally awarded paper. It implements, verifies correctness and proves invalidity of Goldbach Conjecture proof proposed by James Constant. For each provided number, algorithm determines factors and verifies whether they are prime numbers and they are indeed factors of the provided integer.
 
 Can be used to verify method using mathematical induction.
 
